@@ -16,7 +16,7 @@
 ## ✨ Heroku Deploy ✨
 The easiest way to deploy this Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hodacka/RemiRobot) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Roninopp/RemiRobot) 
 
 ## 💖 Railway Deploy 💖
 [![Deploy To Railway](https://railway.app/button.svg)](https://railway.app)
