@@ -53,16 +53,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hey There!` [💖](https://telegra.ph/file/1b4b218a4d3a55bef2143.jpg) `My name is` *Remi*
+`Hey There!` [💖](https://https://te.legra.ph/file/ea5ec0c634b585c81b264.jpg) `My name is` *Ronin*
 `I am an Anime themed group management bot.
-Managed by @Horimaya for Your Telegram Group , I specialize in managing anime and similar themed groups.
+Managed by @DushmanXRonin for Your Telegram Group , I specialize in managing anime and similar themed groups.
 You can find my list of available commands with! Hit` *💗Help💗*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="💓ADD ME IN YOUR GROUP💓",url="t.me/RemiTheRobot?startgroup=true"),
+            text="💓ADD ME IN YOUR GROUP💓",url="t.me/RONin_Fighters_Fd?startgroup=true"),
     ],
     [
         InlineKeyboardButton(
@@ -71,27 +71,27 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-              text="💘My Owner💘", url="https://t.me/Horimaya"),
+              text="💘My Owner💘", url="https://t.me/Ronin_Fighters_Fd"),
      
     ],
     [
         InlineKeyboardButton(
-            text="💞Check My Friend💞", url="https://t.me/NekoXRobot"),
+            text="💞Check My Friend💞", url="https://t.me/Ronin_Fighters_Fd"),
     ],
     [
         InlineKeyboardButton(
-            text="🤍Bot Support🤍", url="https://t.me/RemiSupport"),
+            text="🤍Bot Support🤍", url="https://t.me/Ronin_Fighters_Fd"),
           
 
 
 InlineKeyboardButton(
-            text="💙Updates💙", url="https:https://t.me/CrowdXStrike"
+            text="💙Updates💙", url="https:https://t.me/Ronin_Fighters_Fd"
         ),
 
     ],
     [
         InlineKeyboardButton(
-                    text="💚Support💚", url="t.me/CrowdStrikeChat"
+                    text="💚Support💚", url="t.me/Ronin_Fighters_Fd"
         ),
     ],
 ]
